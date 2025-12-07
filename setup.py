@@ -1,9 +1,9 @@
-from setup import setup,find_packages
+from setuptools import setup, find_packages
 
-setup {
+setup(
     name="src",
     version="0.0.1",
     author="Pranto Mondol",
     author_email="mondolpranto83@gmail.com",
-    package=find_packages()
-    }
+    packages=find_packages()
+)
