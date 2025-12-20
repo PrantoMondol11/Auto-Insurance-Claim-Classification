@@ -3,3 +3,6 @@ mondolpranto83_db_user
 skMnVefZeiwO8jF8
 
 mongodb+srv://mondolpranto83_db_user:skMnVefZeiwO8jF8@cluster0.9o33ngy.mongodb.net/
+
+
+987879449634.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
