@@ -7,7 +7,7 @@
 ![MLflow](https://img.shields.io/badge/MLflow-Tracking-orange)
 
 An end-to-end **Machine Learning + MLOps system** for predicting whether a customer will file an **auto insurance claim**.  
-This project demonstrates a real-world ML lifecycle including **data ingestion, validation, training, CI/CD, deployment, monitoring, and UI integration**.
+This project demonstrates a real-world ML lifecycle including **data ingestion, validation, training, CI/CD, deployment, monitoring, and UI integration**..
 
 ---
 
